@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-**patllola/patllola** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **Data Engineering and Analysis**
 - 🌱 I’m currently learning **Advanced Machine Learning Techniques and Cloud Computing with AWS**
 - 👯 I’m looking to collaborate on **Open-source Data Science and Machine Learning projects**
