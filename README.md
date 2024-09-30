@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **patllola/patllola** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **I've developed ML models for real-time object detection to assist the visually impaired**
 
 
--->
+
